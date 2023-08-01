@@ -1,0 +1,596 @@
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 01                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 93 out of 100
+ - Nice overall job. Definitely a good, useable OW for a good vanilla project.
+
+#### GENERAL DESIGN: 39 out of 40
+ - Functionality: I definitely can see a good use out of this particular map.
+Thie work clearly has a solid structure, and it can be seen in all the areas,
+no exceptions. Good work. My only nitpick is that several secret exits seem
+to be only a level-skip thing. Nothing major, though.
+ - Connectivity: Very good, you'll receive no complaints about this.
+ - Events (optional): Nothing out of this world, but gets the job done.
+
+####     AESTHETICS: 54 out of 60
+ - Visuals: In general, I liked the visual style of your map. It is simple,
+but effective. I have two minor complaints, though: Firstly, I found the
+sky palette to be a bit overwhelming (the pink tones, at least). Lastly,
+I caught a minor cutoff in the last world (the southeast corner).
+ - Shaping: Very pleasant to look at. It is out of the norm in a good way.
+ - Atmosphere: Your music choices were right for the different world themes
+present. Nice work. Also, I did not find any world that does not match with
+the design's intention.
+ - Perspective: Nice work as well. I did not catch any glaring issues.
+ - Level Names (optional): Extended Level Names was used in a good way.
+Props for the uniqueness.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 02                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 78 out of 100
+ - Cool overworld. I'd use the space better, though. It was a bit empty and
+the music could be a better one. Nevertheless, good job.
+
+#### GENERAL DESIGN: 28 out of 40
+ - Functionality: A RPG-Esque World? Well, I see that it can  work under
+certain scenarios. However, the path work was somewhat confusing.
+ - Connectivity: I can't exactly judge this one, as only a main map was
+provided. However, the progression sense is there. I must point that there
+weren't any warps.
+ - Events (optional): No events.
+
+####     AESTHETICS: 50 out of 60
+ - Visuals: One strong point, I must say. A bit limited with decorations,
+though. The palettes were well done. However, some of the hill corners have
+small cutoffs (cliff lines).
+ - Shaping: Nothing to complain. It resembles a good RPG map.
+ - Atmosphere: Pleasant. I'd choose a different music, though.
+ - Perspective: Given it's a RPG themed world... it went well. No complaints.
+ - Level Names (optional): Well, the pipes have names. That's all.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 03                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 56 out of 100
+ - Could be more worked on. Lack of decorations was an issue, but the most
+serious thing was the confusing aspect of the paths provided.
+
+#### GENERAL DESIGN: 24 out of 40
+ - Functionality: I get that you went to the "complex adventure" theme for
+this one. However... I must point that the result was not that excellent.
+It is a somewhat confusing OW, for lack of better words.
+ - Connectivity: This aspect suffers because of how confusing the overworld
+is. Aside of that, no serious issues.
+ - Events (optional): Some different events here and there, but that's all.
+
+####     AESTHETICS: 34 out of 60
+ - Visuals: Simple enough. I must point that some areas seem to be a bit empty
+(some better decoration work should have been done) and I caught small cutoffs
+in the Star World (cliff lines and the bridge).
+ - Shaping: OK. Nothing extraordinary, but good work nonetheless.
+ - Atmosphere: Simple as well. Not sure about using the bonus game music from
+Sonic in the "underwater" world, though.
+ - Perspective: No glaring issues.
+ - Level Names (optional): Creative enough.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 04                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 74 out of 100
+ - All in all, a good OW. Could have its visuals improved, for sure, and it
+could be more non-linear.
+
+#### GENERAL DESIGN: 34 out of 40
+ - Functionality: Simple enough, could be used in a good project. It is fairly
+linear, though.
+ - Connectivity: The paths make sense, and there were not any strange pathways
+or world links. Good job.
+ - Events (optional): Nothing out of the ordinary.
+
+####     AESTHETICS: 40 out of 60
+ - Visuals: Simple enough (the palettes are good). I could not help but notice
+that you used the same shape for some islands in the main map (copy-paste
+shenanigans, I guess?). Also, I must point that the sunset color in world 6
+is not exactly the best one, in my opinion. It kinda resembles the border
+color a lot.
+ - Shaping: Nothing out of the ordinary. No blatant issues, though.
+ - Atmosphere: Minimally pleasant, I must say. The music choice was good, I
+must point.
+ - Perspective: Simple, no evident issues.
+ - Level Names (optional): SMW-esque. Enough said.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 05                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 35 out of 100
+ - An underwhelming work that could be way better, mainly in the aesthetics
+department. Do not give up: OW design is a matter of practice, before all.
+
+#### GENERAL DESIGN: 25 out of 40
+ - Functionality: The OW works in this aspect, but there is an excess of
+secret exits bundled together.
+ - Connectivity: Ok, given what was presented.
+ - Events (optional): No events.
+
+####     AESTHETICS: 10 out of 60
+ - Visuals: Could be significantly better. It seems that you hastly threw
+a bunch of tiles altoghether and hoped it would work. I must point that the
+palette work was somewhat iffy. Also, there were some cutoffs here and there,
+mainly if you notice the cliff bases.
+ - Shaping: Nothing out of ordinary, and kinda bland. Could be better done.
+ - Atmosphere: The sole positive point in this aspect is the music selection,
+which was ok. As for the rest... the visuals do not help, I am afraid.
+ - Perspective: Ok, no glaring issues.
+ - Level Names (optional): No names.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 06                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 63 out of 100
+ - The main issues of this OW is that it's a bit confusing and it has some
+visual problems. Aside of that, there were some positive aspects, mainly in
+the aesthetics department.
+
+#### GENERAL DESIGN: 18 out of 40
+ - Functionality: I see an attempt of non-linearity that fell into the
+"confusing non-linearity" trap. I must point that the fact one of the levels
+was outside the viewing range somehow contributed negatively to the overall
+funcitionality score. Worse, there were empty level "tiles" that sometimes
+were levels, sometimes not.
+ - Connectivity: Some confusing paths, I caught one inacessible path, but
+that is all. 
+ - Events (optional): Confusig. Sometimes you have, sometimes not. And
+some of them were caused cutoffs while activating.
+
+####     AESTHETICS: 45 out of 60
+ - Visuals: Simple, gets the job done. I must point that the cliff excess in
+the south region of the main map and the cliff decorations are both negative
+points. I mean, you went through a plethora of tiles and threw them altogether
+in a random way in order to make the cliffs seem to be decorated.
+ - Shaping: Ok. Nothing too strange.
+ - Atmosphere: The worlds seem to be they were intended to be. I liked the
+music selection as well.
+ - Perspective: Aside of the cliff excesses in the main map (pointed above),
+good work.
+ - Level Names (optional): Sometimes they do not make sense.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 07                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 94 out of 100
+ - Very cool overworld using a dark theme. It has a bif of improvement margin,
+but very well done.
+
+#### GENERAL DESIGN: 39 out of 40
+ - Functionality: Cool overworld. I liked how the you progress after the dead
+end given you cleared the other areas of the map first. Nothing more to point.
+ - Connectivity: No issues around this. Good work.
+ - Events (optional): They get the job done.
+
+####     AESTHETICS: 55 out of 60
+ - Visuals: Given the overall theme, I liked the palettes; However, the main
+map could get one or two more dark tones (slight variations of the existing
+one are fine, for example).
+ - Shaping: Very good work. The main map was particularly very well design.
+ - Atmosphere: Very in tune with the dark theme of the overworld. Very nice
+work.
+ - Perspective: No issues detected.
+ - Level Names (optional): Creative enough given the theme.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 08                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 80 out of 100
+ - Good OW with small issues. I liked the atmosphere, and it is a functional
+OW.
+
+#### GENERAL DESIGN: 32 out of 40
+ - Functionality: It gets the job done. I would give a full mark, but... there
+is a glitched path in W7 that freezes the game, which is a big no-no.
+ - Connectivity: Everything seems to be well together, so no problems here.
+ - Events (optional): No events.
+
+####     AESTHETICS: 48 out of 60
+ - Visuals: I don't get it. The majority of the maps are nothing out of
+ordinary. Pleasant, but just good. The thing is, the world 6 kinda clashes
+because I found it to be way better than the rest.
+ - Shaping: A bit square-ish in some areas (see W9), but overall good.
+ - Atmosphere: The strongest point. I particularly liked the music. The only
+problem is that world 5 feels almost the same as world 1. Was it intended?
+ - Perspective: No glaring issues.
+ - Level Names (optional): SMW-esque.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 09                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 50 out of 100
+ - This had the potential to be a good overworld, but the aesthetics could be
+worked way better.
+
+#### GENERAL DESIGN: 25 out of 40
+ - Functionality: It is a bit good, but the broken paths did not help. All in
+all, it could be worked better, but it is not the main issue of this OW.
+ - Connectivity: Aside of the broken paths... nothing more to comment.
+ - Events (optional): No events.
+
+####     AESTHETICS: 25 out of 60
+ - Visuals: The only strong point in this aspect is the palette work, which is
+well done. Aside of that... lack of decorations was the main issue.
+ - Shaping: Could be better, the square pillars did not help.
+ - Atmosphere: The same music for everything... it is a good music, sure, but
+in some areas, it did not fit so well.
+ - Perspective: Ok, given the shaping work.
+ - Level Names (optional): Creative enough.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 10                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 91 out of 100
+ - Nice overworld. I like how the atmosphere sudden change reflects well into
+the purpose of this work.
+
+#### GENERAL DESIGN: 37 out of 40
+ - Functionality: "Adventuring into the depths". Cool concept. I must say
+I thought of making a hack using a similar idea. It was well executed.
+ - Connectivity: It makes sense. Fairly linear, but gets the job done.
+ - Events (optional): Well used.
+
+####     AESTHETICS: 54 out of 60
+ - Visuals: I liked the "depths" visual of the main map. The color of the
+icy area is a bit too strong, though.
+ - Shaping: I liked the "floating depth islands" feel the main OW posesses.
+ - Atmosphere: Nice. The best part is how you switch the mood completely when
+falling to the depths world.
+ - Perspective: No glaring issues.
+ - Level Names (optional): Original.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 11                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 92 out of 100
+ - A very good overworld, with very nice ideas (good work with the crossed
+paths, and the world 2 is particularly very well built in the aesthetics
+department).
+
+#### GENERAL DESIGN: 38 out of 40
+ - Functionality: Very good work. I liked how some paths cross each other, and
+there is a steady sense of progression.
+ - Connectivity: Nothing to comment in the issues department. Nice work.
+ - Events (optional): No events.
+
+####     AESTHETICS: 54 out of 60
+ - Visuals: Very good visuals there. I liked the decoration variety; however,
+I must point that there were some strange blue tones in the second world, and
+the waterfall transition near the world 5 entrance is a bit strange. Minor,
+though.
+ - Shaping: Pleasant work. It shows that you took yourself to work hard with
+the general world shapes.
+ - Atmosphere: Very nice. My favorite by far was world 2.
+ - Perspective: No glaring issues.
+ - Level Names (optional): Very creative. Nice!
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 12                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 78 out of 100
+ - Cool overworld that adheres nicely to the proposed theme. However, the
+colors made my eyes suffer a bit, which was bad to the aestethics score.
+
+#### GENERAL DESIGN: 38 out of 40
+ - Functionality: You went into a "dark non-linear" overworld theme. It is
+non-linear, but in a non-confusing manner. Props to you.
+ - Connectivity: Gets the job done. Nothing too extraordinary, though.
+ - Events (optional): Simple, and effective.
+
+####     AESTHETICS: 40 out of 60
+ - Visuals: The visuals go with the proposed theme... but the palettes could
+use more work. Some of the colors were a bit overwhelming on the eyes, and
+a good part of the color gradients were strange to say the least.
+ - Shaping: Nothing too extraordinary, but above average. Cool work.
+ - Atmosphere: You got the "dark, abstract world" almost into a T with this.
+A pity the visuals suffered because of the palette work.
+ - Perspective: I did not fing anything abnormal, so nice work.
+ - Level Names (optional): The strongest point. You actually tell a story
+with the level names as the overworld progresses. Cool!
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 13                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 97 out of 100
+ - Almost perfect. Incredible work out there.
+
+#### GENERAL DESIGN: 39 out of 40
+ - Functionality: Very strong OW, I must say. I liked the fact it uses the
+secondary and tertiary secret exits as well. Very nice work.
+ - Connectivity: Since the OW does not appear to have a ordered world
+structure, the connectivity goes well with the functionality. Very well done.
+ - Events (optional): They are very well used. You see the subtle changes
+in the map as the adventure progresses.
+
+####     AESTHETICS: 58 out of 60
+ - Visuals: Very pleasant. Nice colors, nice decorations, everything went well
+together.
+ - Shaping: Way above average. It gives life to your creation in a very good
+way. Could have used a bit more of height variation, though.
+ - Atmosphere: Everything makes sense, and the music choices were really good.
+Nothing more to comment.
+ - Perspective: No glaring issues.
+ - Level Names (optional): SMW-esque. Enough said.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 14                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 82 out of 100
+ - A good overworld with a strong foundation, resembling a SMW adventure.
+Could be better worked on considering the visuals aspect, though.
+
+#### GENERAL DESIGN: 37 out of 40
+ - Functionality: Very cool overworld. Fairly linear, but with a good dose
+of secrets. It has a good sense of progression.
+ - Connectivity: Nothing too out of the ordinary, the job was well done.
+ - Events (optional): They actually add a sense of impact after beating a
+level. Very well done.
+
+####     AESTHETICS: 45 out of 60
+ - Visuals: The visuals are good, however... some more decorations would be
+good in certain areas of the main map, and some more color variety would be
+appreciated as well.
+ - Shaping: Nothing out of the normal, but nothing boring either.
+ - Atmosphere: Pleasant given the visuals provided. Nice work.
+ - Perspective: No issues worth to be pointed.
+ - Level Names (optional): SMW-esque.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 15                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 65 out of 100
+ - An OW that was fruit of hard work. However, I must point that several
+things could be improved, mainly in the visuals department.
+
+#### GENERAL DESIGN: 35 out of 40
+ - Functionality: It stands out as a SMW-sequel to me. Nothing wrong with it
+in this aspect, but it is not memorable either. Nevertheless, good job on
+building a fairly useable OW. I can easily see it in vanilla projects.
+ - Connectivity: The secrets were well used, so props to you.
+ - Events (optional): Simple, but effective.
+
+####     AESTHETICS: 30 out of 60
+ - Visuals: And... here is the part things get a bit problematic. The main
+problem is the lack of decoration in several areas (Worlds 4, 6, 7).
+I also caught some cutoffs in world 4. At least the palette choices were on
+the spot.
+ - Shaping: Nothing too remarkable, but not bad either. No wrong things to
+point, that's all.
+ - Atmosphere: You used SMW's original music. A pity because your OW deserved
+more. However, the worlds make sense and were well themed.
+ - Perspective: No blatant errors.
+ - Level Names (optional): SMB1-like. That's it.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 16                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 96 out of 100
+ - One of the best OW's I've seen recently. I'd definitely like to see this in
+a hack.
+
+#### GENERAL DESIGN: 40 out of 40
+ - Functionality: Very smart work here. the worlds were well thought, and we
+definitely can see the progress sense they have, aided by non-linearity paths.
+ - Connectivity: Very good. Nothing more to discuss.
+ - Events (optional): None present.
+
+####     AESTHETICS: 56 out of 60
+ - Visuals: Very pleasant to look at. The color choosings were the strongest
+point. There is a small cutoff in the Misty Bridge connection to the cliffs
+in the left side, but it is the only thing I caught.
+ - Shaping: Perfection. Enough said. It feels like a detailed map.
+ - Atmosphere: I almost gave you perfect points in this. Almost because in the
+sixth world... I'm not sure if Rockface Rumble really fits with the theme.
+That being said, excellent work in the rest.
+ - Perspective: No errors to be discussed.
+ - Level Names (optional): Original enough.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 17                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 94 out of 100
+ - Very cool OW. If not for a small connectivity issue and cutoff generated
+by events, it would get a perfect score.
+
+#### GENERAL DESIGN: 34 out of 40
+ - Functionality: Very good OW. Functionality-wise, I can see this being used
+in a serious project.
+ - Connectivity: There is the only point that barred you from a perfect score.
+Some path choices are really confusing, like... the path on the southwest part
+of the main map leads to a point in W3... while another path on the northeast
+leads to the same world... and ther were not pipe transitions. So, there's
+a path work that does not make sense. A shame, because everything else was
+really well implemented.
+ - Events (optional): I will have to dock one point in here. Yes, they are
+present, but... one or two of them caused cutoffs in world 7.
+
+####     AESTHETICS: 60 out of 60
+ - Visuals: Worked to perfection. Absolutely amazing work. The color choices
+were very good.
+ - Shaping: Really nice work as well. We can see detailed ground work in here.
+ - Atmosphere: Nothing to complain. The music choices were excellent.
+ - Perspective: I see you attempted to make varying-height landscapes. They
+worked well, and no errors were found.
+ - Level Names (optional): Creative.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 18                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 80 out of 100
+ - A good, but not extraordinary OW. Could get some more improvement in the
+colors. Also, some more world variety would be appreciated.
+
+#### GENERAL DESIGN: 32 out of 40
+ - Functionality: OK, it is a good OW, but don't get me wrong: ins't three
+ice worlds a bit unnecessary? Aside of this, I can see it's a solid work.
+ - Connectivity: Very well done. Nothing to complain about.
+ - Events (optional): They get the job done.
+
+####     AESTHETICS: 48 out of 60
+ - Visuals: And there's the point when things get sticky. You see, the color
+choices sometimes were strange, like the shadings and the post-special world
+palettes (that green in the ice worlds were kinda bad).
+ - Shaping: Good work with it.
+ - Atmosphere: My only complain is the use of Zelda: A Link to the Past Dark
+World's theme in the main map. It did not suit with the worlds present to me.
+ - Perspective: No blatant errors.
+ - Level Names (optional): Original and creative.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 19                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 72 out of 100
+ - It is a good OW, but it suffered from style clashing. I'd recommend to
+adhere to one, maximum two styles, because it would have added more to the
+functionality aspect of the OW.
+
+#### GENERAL DESIGN: 32 out of 40
+ - Functionality: The strongest point of your OW... and also the weakest.
+In some points, I was deeply impressed but how creative you got with your
+ideas, such as a far-west theme or even an upside-down OW. But... clashing
+these styles with, for example, SMB3-like OWs did not result in a good OW
+that makes sense.
+ - Connectivity: It did not make very sense sometimes. I mean, world 2 goes
+directly to world 5? Is world 2 a secret world or something? It was not clear.
+ - Events (optional): Get the job done. I liked how you "drained" part of
+world 1 with just event work.
+
+####     AESTHETICS: 40 out of 60
+ - Visuals: If I were to base your score in the first or the seventh world...
+you'd get perfect score. However... some color choices in worlds 2 and 5 are
+strange, and there are some cutoffs in the main map. Also, the exanimations
+were not that well executed.
+ - Shaping: Good structuring. I liked that volcano. The ceiling world was
+the most challenging, I assume.
+ - Atmosphere: Bonus points for the fourth and the seventh world. Everything
+else is good, but not really remarkable.
+ - Perspective: You've got no complaints from me.
+ - Level Names (optional): Good work.
+
+##############################################################################
+
+##############################################################################
+#                                                                            #
+#                             ENTRY NUMBER 20                                #
+#                                                                            #
+##############################################################################
+
+####    TOTAL SCORE: 85 out of 100
+ - Cool work, but... weren't some tiles non-vanilla? Full marks on
+functionality though.
+
+#### GENERAL DESIGN: 40 out of 40
+ - Functionality: You recreated a pokemon world out of a SMW map using only
+event work. Full marks.
+ - Connectivity: See above.
+ - Events (optional): See above.
+
+####     AESTHETICS: 45 out of 60
+ - Visuals: Very nice work. However... it's difficult, sometimes, to determine
+whether the tile fusions adhere to the rules. More of a nitpick than anything
+else at this point.
+ - Shaping: Pokémon-esque. Nothing more.
+ - Atmosphere: Could used more than one music, but cool anyways.
+ - Perspective: Nothing to comment
+ - Level Names (optional): Used as dialogues. Creative
+
+##############################################################################

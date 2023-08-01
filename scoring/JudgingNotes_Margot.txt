@@ -1,0 +1,310 @@
+-OWDC NOTES-
+
+ENTRY #1:
+OVERALL SCORE: 93/100
+GENERAL DESIGN: 40/40
+Functionality - everything functions perfectly, not much to note here other than that it's functionally flawless.
+Connectivity - cool connection between world 2 and world 7, leading into the star world/end game portion. the flow was really good on this one and the backtracking wasn't too terrible from secret exits and etc.
+Events - love the use of events to set up paths opening earlier on in worlds/forcing backtracks, gives a cool sense of a living place with connected events, also love setting up some tile reveals off-map so worlds change off camera while the player is elsewhere.
+
+AESTHETICS: 53/60
+Visuals - interesting palettes, some cool little tricks (e.g. using castle lava bubbles for ow lava, reskinning the bowser sprite to be weird, animating the thunder clouds to flash by using VoB submap).
+Shaping - some very ambitious shaping in close quarters on the main map, lots of jagged edges and some unusual geometries that i wouldn't be brave enough to try on a personal level.
+Atmosphere - every map individually has its own mood that it sets very well, but some of them don't really flow together perfectly in terms of transitions (weird secluded cave forest? ice submap right off from a desert that's on a cliff top?). world 6 (cloudy cliff/cotton skies) is probably my favorite of all the maps, though star road has a big mood that feels very YUMP 2 submap, fitting the music choice nicely.
+Perspective - things mostly seemed lined up/geologically feasible, and there's lots of good little subtle detail work aiding the perspective score for this entry (cliff overhang shadows and etc.).
+Level Names - love the world name / level name convention here, helps give a sense of cohesion and progression, which is interesting to provide in a contest with no levels, though it's kinda strange that the prefix convention changes multiple times per world, often not in a sequential/logical way.
+
+ENTRY #2:
+OVERALL SCORE: 80/100
+GENERAL DESIGN: 20/40
+(keeping this brief because the real focus of this entry is the aesthetics, i awarded it 20/40 points as a baseline average since it functions fine but its functionality is very limited).
+Functionality - n/a, no exits/events, just a hub world with a bunch of pipes that don't go anywhere. 
+Connectivity - see above.
+Events - see above.
+
+AESTHETICS: 60/60
+Visuals - like hackers dreams ow but more polished/high effort in terms of appearance. an incredible, audacious main ow, of a much larger scale than you see with most ows, with some incredible shading/color blending and a really strong sense of overall aesthetics/cohesion.
+Shaping - using cutoff to give dimension to shading is *chef's kiss*, the forest areas are incredible, the colored cliffs are incredible, the blending between terrain transitions is incredible.
+Atmosphere - HUGE atmosphere, feels like a painting but made in smw.
+Perspective - very dimensional stuff, feels like a topological (topographical?) map with notable elevation changes/smooth terrain transitions/etc.
+Level Names - fleet foxes references! and some other stuff maybe? but mostly fleet foxes (grown ocean, tiger mountain, wading in waist-high water, icicle tusk (deep cut damn)).
+
+ENTRY #3:
+OVERALL SCORE: 81/100
+GENERAL DESIGN: 30/40
+Functionality - very ambitious, kind of hard to tell where you're going sometimes based on swaths of lands with no visible pathing, just implied pathing based on movement events.
+Connectivity - things interlaced well, but this feels like it would be a nightmare of backtracking and ow inputs in practice in a hack, also couldn't figure out how to get to green switch palace.
+Events - see above re: green switch palace in starting world, but there's some really cool event work here as well (the opening into ruby volcano is very good).
+
+AESTHETICS: 51/60
+Visuals - nothing fancy, very vanilla-feeling ows, some weird outline discrepencies/cutoff/etc. in some places but nothing too egegrious.
+Shaping - good use of depth/height differences/etc., no egregiously weird our out of place shapes, but nothing super ambitious going on here either.
+Atmosphere - not a ton of mood here beyond just feeling vanilla-ish, which i suppose is a mood in and of itself.
+Perspective - no devazure slopes here, but no insane asymmetrical/geographically impossible cliffs or anything either.
+Level Names - another cool use of two lines worth of level name to denote setting -> subsetting via world/level names, i like this convention, though in this case it felt closer to truc bidule's version of the idea than like a DKC-ish naming system.
+
+ENTRY #4:
+OVERALL SCORE: 83/100
+GENERAL DESIGN: 30/40
+Functionality - pathing all works, found all the switch palaces, no functionality issues here.
+Connectivity - i like the way the levels all route into each other, the shortcutting between worlds is nice but not overly ambitious (this is a good thing imo).
+Events - events all work, switch palaces crush, no-move levels were implemented, saves active on ghost houses/forts, which is a nice consistency touch.
+
+AESTHETICS: 53/60
+Visuals - nothing super ambitious, but really nicely made and incorporates some cool non-OW elements into the overworld aesthetics nicely (boss fight layer 3 candle flames, castle fg/bg sets to build a castle world, vines, etc.
+Shaping - no wild cliff angles/topographies here, paths are all logical and the implied paths are obvious enough that it's pretty impossible to get lost.
+Atmosphere - each world is pretty self-contained in terms of atmosphere, but they all are evocative in their own way (love the pyramid-filled desert and the underground cave and the volcano the most, but all are good).
+Perspective - no major perspective issues, everything is pretty symmetrical in terms of curves/slopes/etc., all of it makes logical sense.
+Level Names - very standard: normal level names, feels very much like vanilla game naming conventions, which is never a bad thing.
+
+ENTRY #5
+OVERALL SCORE: 50/100
+GENERAL DESIGN: 20/40
+Functionality - it... functions.
+Connectivity - weird star world that leads to bowser's castle that can be accessed from seemingly every star map, but one star backtracks you to main ow?
+Events - none at all, as far as i can tell.
+
+AESTHETICS: 30/60
+Visuals - very basic, no real interesting graphical details or anything to distinguish it from pure vanilla level design, lots of cut-off, but all cut-off of the vanilla variety (i think)
+Shaping - nothing super ambitious here, nothing egregious either.
+Atmosphere - very little to speak of, pure vanilla tiling and everything flows together but not in a particularly cohesive/connected way.
+Perspective - perspective mostly makes sense, though things are pretty gridded off in terms of area division/etc., so it all feels a bit boxy and unnatural as a result.
+Level Names - n/a (there are none).
+
+ENTRY #6:
+OVERALL SCORE: 82/100
+GENERAL DESIGN: 37/40
+Functionality - everything functions fine, mostly open overworld, which works in the context of a "treasure hunt" map as it purports to be.
+Connectivity - a rare situation where dead-ending makes sense because of the treasure hunt nature of the ow.
+Events - the one intended event that opens the final world is neat, some of the path dots with no levels on them leading to that even however have unintended events of their own that add some weird event reveal tiles that do nothing to the overworld, so i'm assuming this was accidental.
+
+AESTHETICS: 45/60
+Visuals - very standard hack a la 2015 vibes (lots of fg/sprite tiles merged into ow elements (bones, blocks, skull raft skulls, etc.)).
+Shaping - very angular geometries, some traditional vanilla-esque stuff like a path that opens up early into the final world (but doesn't let you go into the castle), nothing super extraordinary in terms of shaping but also nothing weird or nonsensical.
+Atmosphere - each world has its own self-contained atmosphere, not a lot of cohesion to speak of between them.
+Perspective - very tall/vertical perspective for the main ow, perspectives are pretty flat otherwise or standard/vanilla-ish in terms of dimensional presentation.
+Level Names - pretty normal level names, some a bit on the nose ("wrong exit!" multiple times, for example).
+
+ENTRY #7:
+OVERALL SCORE: 79/100
+GENERAL DESIGN: 31/40
+Functionality - softlocked on Home Town, with no way to move forward or backward, otherwise functionality seems good.
+Connectivity - cool interlacing of the submaps, with some smooth backtracking for the most part (exception made for the above softlock issue).
+Events - very low-key events, not a ton in the way of fanfare when you activate any of them (didn't even notice a bowser's valley reveal event at any point), thanks for making the switch palaces crush, also some cool subtle event stuff happening off-screen that i didn't notice on my first pass.
+
+AESTHETICS: 48/60
+Visuals - very moody, feels very not-vanilla despite being vanilla (love the use of yoshi's house birbs, some cool steam vent facsimiles too, abyss is a very cool submap in general).
+Shaping - interesting shaping, some very ambitious geometries and a cool main ow with lots of angular cliffs that all do tie well into each other.
+Atmosphere - great atmosphere, very cohesive for the most part (the ending submap excepted, not sure how we got from abyss and moody dark souls brooding to happy sunny peninsula but here we are).
+Perspective - good perspective on main ow, submaps are a bit more flat, but not in a bad way, just less defined in terms of perspective than the large map.
+Level Names - unclear if some of the level names are supposed to have childish humor (boweletaria estate or whatever?) or if it's just typos/ESL stuff, but overall fairly evocative of the obvious dark souls thread running through this one.
+
+ENTRY #8:
+OVERALL SCORE: 70/100
+GENERAL DESIGN: 30/40
+Functionality - everything works fine, no events means easy access to everything from the start.
+Connectivity - the star world is a little confusing to navigate (especially with no events to open things sequentially), but everything ties into everything else pretty well, and i like using the main overworld to house multiple worlds.
+Events - n/a.
+
+AESTHETICS: 40/60
+Visuals - very classic and unpretentious, just interesting pure vanilla stuff arranged in such a way as to look novel and more interesting than what you see in vanilla SMW.
+Shaping - very boxy planes for the most part, but not in a way that feels terrible unnatural/forced.
+Atmosphere - not a huge sense of overall atmosphere, but each world is well-defined and has its own distinct vibe.
+Perspective - nothing mindblowing, but perspective makes sense throughout.
+Level Names - classic old-school standard hack naming conventions, e.g. "Sauce Volcano 1,2,3,4".
+
+ENTRY #9:
+OVERALL SCORE: 55/100
+GENERAL DESIGN: 20/40
+Functionality - there are no events or really even tangible paths, so functionality here is hard to define... it's definitely an overworld you can move around on, and it connects together fine, but it's very confusing and disorienting to navigate, and the slow walk speed on the ow doesn't really help matters when you realize you've put yourself on a backtrack path you didn't know was a backtrack path thanks to the lack of indication on what the paths actually are.
+Connectivity - there was an incorrectly set path tile on this one, so i had to go into Lunar Magic and change it to be able to explore all the levels. more generally, the lack of any sort of indicated pathing makes the connectivity on this one feel really random/vague, and it didn't have a sense of flow at all as a result.
+Events - none whatsoever, so n/a.
+
+AESTHETICS: 35/60
+Visuals - very barebones, with some moments of interesting flourish here and there (the opening spiral around the back of the mountain was very cool, nothing else rose to that height for the remainder)
+Shaping - the more ambitious shaping in parts of this one was sadly a bit undercut by the total lack of shaping in terms of pathing and etc. it felt very open and abstract, but with very restricted movement that lacked any sort of indication.
+Atmosphere - the very empty feeling of this entry made it hard to get a good sense of atmosphere, and as a result, it doesn't feel like much of anything at all beyond just an overworld made in SMW. the setup of "you're shipwrecked" works for the opening submap but otherwise gets thrown out as soon as you move into the main OW.
+Perspective - fairly standard stuff, once again impeded by how vague and invisible all the pathing was.
+Level Names - very generic video game-y level names, which is fine, but not particularly interesting or inspiring.
+
+OTHER NOTES:
+the lack of visible paths really did this one a disservice. it feels like this set of maps started ambitiously and then gradually the creator lost steam, which is a shame, because with more time and work and polish, this might have been something truly great.
+
+ENTRY #10:
+OVERALL SCORE: 85/100
+GENERAL DESIGN: 33/40
+Functionality - everything functions correctly, no event issues/path problems/etc.
+Connectivity - everything flows together well, definitely one of the more linear entries this year, which was a nice break from the backtrack maze hell of some of the others.
+Events - nothing crazy, but good use of bowser valley appearance event, as well as just solid (not-broken) event work on the main path.
+
+AESTHETICS: 52/60
+Visuals - opening world is very lovely, underworld is very moody and ambitious, not sure if all the visuals land (why is there a moon underground), but i admire the effort to do something out of the ordinary with the visuals here.
+Shaping - solid slope work on the starting ow, gets a little weirder in the underworld, but works for the mood.
+Atmosphere - very, very moody, the subversion of expectations is good but probably could have been ratcheted up more by having you cross back and forth between light/dark worlds.
+Perspective - pretty weird and out there, but that feels somewhat unavoidable given the nature of the underworld map.
+Level Names - very moody, very ominous, a little edgy, but they work for the tone of the map.
+
+OTHER NOTES:
+short and sweet, love the plot twist of the overworld being everything under the misleading happy overworld where you start the game.
+
+ENTRY #11:
+OVERALL SCORE: 92/100
+GENERAL DESIGN: 32/40
+Functionality - flawless, which is a feat given the complexity of the pathing on display here.
+Connectivity - see above, the use of hardcoded paths here is masterful, the interlocking/overlapping/etc. of all the paths and the criss-crosses across each set of potential exits/paths in each world is just masterful, whoever made this is clearly extremely knowledgeable about smw overworld design.
+Events - none, which feels like a missed opportunity in terms of little inside jokes when you crush castles/switch palaces, but also unnecessary in the grand scheme of things, especially given how cohesive this set of overworlds is.
+
+AESTHETICS: 60/60
+Visuals - 10/10, really just the zenith of the traditional vanilla-esque overworld form. at first glance it doesn't look like much fanciness is on display, but there's so much subtle stuff happening on every map; clouds from the castle destruction cutscene (complete with shadows on the water below them!), merged forest weeds as ow bushes, use of non-obvious tiles to create shading in the ground... it's all here, unpretentiously on display, flawlessly executed.
+Shaping - mostly unambitious cliff geometries, but it doesn't need ambition because it's all logical and sound and well-done. the path shaping is impeccable, truly on another level from every other entry i've seen in the contest so far.
+Atmosphere - HUGE vibes, feels like coming home to the classic hacks of the mid '10s (JUMP and the like), while also featuring a ton of the flourish of the current era that you wouldn't see from back then. heavy JUMP team vibes on this one, in the most complimentary way.
+Perspective - see above about shaping, nothing wild or wacky or super out there happening here, but it doesn't need to, because perspective-wise it all makes sense and nothing feels impossible or out of place.
+Level Names - A+, for a contest especially, this feels so much more interesting to me than names of levels that don't yet/might not ever exist. feels like you're having a conversation with the creator, like they're walking you through their process as they construct their world.
+
+OTHER NOTES:
+damn, this one rips. the maps are good and the vibes are on point and the self-aware level names betray someone who incredibly knows what they're doing as the creator of this owdc entry.
+
+ENTRY #12:
+OVERALL SCORE: 84/100
+GENERAL DESIGN: 30/40
+Functionality - everything works as intended, no broken paths, all working events, nothing to report here.
+Connectivity - fairly straightforward pathing work, but everything flows nicely, and the branching paths do have a sort of logical order to them, given the narrative structure of the level titles in the context of the map itself.
+Events - nothing fancy or flourishy, but everything works properly, tiles crush that need to crush, pipes work, doors open, everything does exactly what you'd hope it would do.
+
+AESTHETICS: 54/60
+Visuals - very psychedelic retro game vibes on this one, with a blue/pink/purple motif running throughout and some very neon-y palette choices in terms of outline colors complimenting solid interior colors in funky, flashy ways. the mirroring moons in the final submap are a work of art.
+Shaping - nothing super wild here, but lots of decent shape work throughout all the submaps, with a good amount of elevation change and etc. to keep the overworld movement feeling interesting and dynamic as you move throughout the world.
+Atmosphere - mood here is great, very cohesive between each submap, with nice, subdued, but not overly dramatic music running throughout each. the tone of the music/visuals has a nice contrast with the sophistical babble of the level names, and it made for a fun walkabout throughout.
+Perspective - everything makes sense even if nothing is inspiring with the perspective work on this set of maps. elevations are level/logical, scale is achieved well enough through the use of overworld objects, everything is clean lines and hard breaks a la vanilla SMW and that works just fine for this one's purposes.
+Level Names - absolutely the highlight of the entry, anticapitalist rumination by way of kant by way of crushing turts. i'm into it, fully and completely.
+
+OTHER NOTES:
+possibly my favorite level names of the contest.
+
+ENTRY #13:
+OVERALL SCORE: 81/100
+GENERAL DESIGN: 35/40
+Functionality - everything does work, and everything does fit together, which is a bit of a feat for how sprawling this set of maps is.
+Connectivity - everything is connected, but the main overworld is basically a labyrinth, with a ton of branching paths and very little sense of flow as a result. you can go almost any direction at almost any time, which is cool conceptually, but it's so easy to get lost, and it was hard to keep track of every exit in the midst of having to backtrack constantly, since many levels have three or four exits attached to them.
+Events - events all work, which is a testament to the creator's skill, as there's a lot of interconnected paths in this one, and having them all link up correctly is pretty impressive even if their connectivity is a little weird/disorienting at times.
+
+AESTHETICS: 46/60
+Visuals - feels almost like the overworlds from Super Whatever Quest/Sprites Are 1Derful but more serious and less meme-y, lots of animated vanilla sprite gfx copy-pasted onto the OW, which sometimes felt too gratuitous for my tastes, but sometimes worked quite well. the rainbow submap rules, and those rainbows are a little marvel of tile merge rules for sure.
+Shaping - nothing felt weird or geometrically impossible or anything, though often the dimension was fairly shallow and flat for each subworld, despite the sprawl and scope of each world in turn.
+Atmosphere - not a ton of overall cohesion between maps in terms of vibe/mood/atmosphere, and the near-constantly changing OW music also didn't help it feel like it flowed together super well, but each self-contained area is dripping with atmosphere; it's not that the maps don't have vibes or anything, it's just that they're all disconnected from each other tonally.
+Perspective - fairly flat perspective throughout, inclines are kept uniform and often shallow, to not detract from potential surface area onto which to paste some more exanimations. it works for the overall ow sprite motif, but having some more empty/open space to give more room for interesting perspective/shaping stuff wouldn't have been a bad move, i don't think.
+Level Names - very generic video game stuff here, which is fine, but not particularly inspiring or thoughtful.
+
+OTHER NOTES:
+overworld scrolling does a lot of favors here, since there's just a TON to see. very notable entry in terms of sheer number of levels/paths/events/etc., the scale is well beyond most of its competitors in the contest.
+
+ENTRY #14:
+OVERALL SCORE: 89/100
+GENERAL DESIGN: 40/40
+Functionality - no functionality issues i could find, everything works really well, the pathing is smooth, the events all work correctly, no issues here.
+Connectivity - fascinatingly easy to read/follow as a player despite the incredibly elaborate structure of this set of maps, where seemingly every inch of every submap and the main overworld was used for something. the star world is a great little waypoint between the other maps, the secret routes to take shortcuts are all really interesting and would give good play to speedruns/etc. if this were a real hack, and despite the huge number of exits and the huge amount of space you cover, it all feels pretty tight and coherent throughout.
+Events - super ambitious events compared to most of the competition this year, and i appreciate just shrugging off the janky appearance of some big event animations and going for broke like this overworld did. the water flowing down the ice mountain, the plains catching on fire, the void that opens to take you to, well, the void... good stuff here for sure.
+
+AESTHETICS: 49/60
+Visuals - unpretentious but ambitious, lots of really nice reuse/merging/etc. of vanilla tiles (both OW tiles and level tiles, some great work with grass in this one, the fire spam feels appropriate because the OW event literally catches that part of the world on fire), the void has a cool aesthetic, the star road is beautiful and the reuse of a bowser window as a mirror is lovely and something i don't think i've seen before.
+Shaping - feels very vanilla SMW overworld in terms of shaping, but i mean that very much as a compliment. you're not trying to bend things around like devazure with his crazy slopes, you're just putting the lego pieces together in an interesting way that makes sense but doesn't show off. that's a good thing, in my book.
+Atmosphere - not much for overarching atmosphere across multiple submaps, but each submap works as a self-contained little vignette, and there are some really lovely maps with some really cool moods in this one (mirrored forest rules, the star world is sick, the underground is very cool). i think the lack of overall cohesion doesn't detract at all from the experience, it just maybe could have added more to it were they all a little more intertwined in terms of tone.
+Perspective - similar to shaping, this set of overworlds doesn't try to go crazy with perspective, but it exercises vanilla-esque perspective stuff to its full extent in a way that is not terribly flourishy but certainly not amateurish in appearance/presentation.
+Level Names - not generic, per se, but kind of hard to get a read on in terms of level theme/mood/etc. (who is clifford and why does he have cliffs here?) i did like the names of all the koopa kid castles a lot, those felt like the most thought-out and moodsetting of the bunch.
+
+OTHER NOTES:
+as with the last entry, scrolling on the overworld is a great addition to this entry, as there's just *a lot* going on on the main map. definitely one of the more striking first passes i've had in the contest, there's a lot to take in and it's all presented pretty straightforwardly, so you don't miss much because you can't get *too* off the beaten path, and the worlds are interesting enough to make you want to take the time to double back.
+
+ENTRY #15:
+OVERALL SCORE: 78/100
+GENERAL DESIGN: 40/40
+Functionality - all the stars/pipes/etc. work, the pathing all works as expected, this one's just built rock-solid in terms of overall functionality and construction.
+Connectivity - everything connects together in a very logical way, there's little room for the player to get lost, the star world is linear but interesting, and acts as a nice throughline for the hack and also a great little way to check completion for all of the submaps.
+Events - the switches crush, the event pathing all works, there's a natural flow to the world so it's easy to follow the events where you need to go. no complaints here.
+
+AESTHETICS: 38/60
+Visuals - pretty barebones in terms of overall visuals, no "overworld sprites" or any sort of graphical flourish, little even in the way of vanilla aesthetic flourishes like stones/bushes/trees/etc. it's not that this set of maps isn't attractive, it's just very plain compared to some of the other competitors, having roughly the same level of minimal detail as vanilla mario world.
+Shaping - feels very vanilla, in good ways, since the geometry in vanilla smw's overworlds is very pleasant for the most part. no crazy paths, no crazy slopes, no weird asymmetrical anything, just straightforward shapes and inclines and lots of 90-degree turns for paths (the safe classic).
+Atmosphere - not a ton of atmosphere, which makes sense given the lack of detail. the bg clouds imported onto the main ow are nice, but they're the only real personal touch in the whole set of maps, and everything else just feels kind of plain and vanilla.
+Perspective - again, very reminiscent of vanilla mario world, so basically average and unremarkable but pleasant and logical.
+Level Names - very to the point (4-0, 4-1, 4-fortress, star road, bowser's castle, etc.). nothing really to say about this one, since the levels are effectively nameless/tautological.
+
+ENTRY #16: (PARADISO)
+OVERALL SCORE: 77/100
+GENERAL DESIGN: 27/40
+Functionality - i definitely got softlocked in world three thanks to a broken path going left from the pond in the center of the map...
+Connectivity - the disconnected star road with three separated paths was a little confusing, i was hoping i'd at least be able to backtrack from the last stop but having to track down the different entrances that all ended me up lost on the overworld didn't really do it for me.
+Events - none whatsoever, as far as i could tell.
+
+AESTHETICS: 50/60
+Visuals - overall, a very attractive set of maps. the star world is lovely (feels very purgatory-esque in very good ways), each submap is distinct and has its own personality, the palette work is impeccable, the non-vanilla gfx are subtle and tasteful and form a nice through line throughout the whole of the entry.
+Shaping - pretty interesting compared to a lot of more vanilla-ish maps, lots of jutting diagonal cliffs and interesting geometries, the only place that really felt weird to me was world 3 (see above comment about softlocking, that was partially a result of how the level was shaped).
+Atmosphere - each submap has its own tone and mood, but there's not a major overarching theme across all of them when looked at as a composite. still, a really lovely set of maps that feel very traditional but also very polished and like a lot of effort were put into making them look *just so*.
+Perspective - lots of good dimension in this one, you can really tell the elevation changes between areas, and everything feels connected in a way that makes your journey feel sprawling, like you're covering a great distance, and a lot of that i think is thanks to the perspective of these maps.
+Level Names - fairly generic, what you'd expect out of any given random platformer or mario game that doesn't have a strong theme (like vanilla SMW and its food motif).
+
+OTHER NOTES:
+definitely one of my favorites on a pure looks level, would have loved to have seen active event work, but being able to scroll on the overworld was very nice for this one, as it was lovely to look at from a high level. can't quite put my finger on *what* made me like this entry so much, but it was very pleasant to look at for sure.
+
+ENTRY #17: GARASSYZ BITARAP TURKMENISTAN SUPER MARIO WORLD WATANIZED
+OVERALL SCORE: 79/100
+GENERAL DESIGN: 30/40
+Functionality - nothing wrong that i could find in terms of functionality, everything seemed to work as intended; switch palaces crushed, overworld flourishes like bowser and cheep cheeps worked as intended, rock solid construction here overall.
+Connectivity - everything flowed together pretty well, though overall it was certainly a more linear experience than a lot of the other entries. that's not a bad thing, just notable in that it's somewhat in the minority as a result of its linearity.
+Events - events work, but it was an interesting choice to see the level dots already revealed on the overworld. on the one hand, it made it easy to not get lost; on the other hand, it kind of took the pizzazz out of having working events, since you didn't get to see the level appear as part of the terrain transforming around you. thank you for being brave and using an overworld cheep cheep.
+
+AESTHETICS: 49/60
+Visuals - really high quality stuff, with the exception of the star road, which felt empty and completely vanilla levels of basic, in addition to having the weirdest pathing restrictions that didn't match with its initial visual presentation.
+Shaping - really solid shape work, trafficking in more interesting geometries than a lot of entries, with cool slopes, interesting island/mountain/etc. shapes, etc. pathing was a little generic but function over form for sure is my rule there, so not a big deal, just sort of interesting given how straightforward the paths were versus the geometry around them.
+Atmosphere - not a ton in the way of overall tone/vibe across every map, but every map was nice and had its own thing going on in terms of atmosphere. big fan of the special world, not a fan at all of the star road; those were contrasting opposites in terms of atmosphere, with one having as much mood as the rest of the entry combined and one having no mood at all.
+Perspective - a little weird thanks to some ambitious slope work/some boxy square mountain spires on the main overworld, but overall very grokkable and realistic and sensical.
+Level Names - i don't understand the cosmology of this entry, but i respect that it has one, and it seems to tell a story/illustrate level themes and ideas well, even if i don't speak the language.
+
+ENTRY #18:
+OVERALL SCORE: 84/100
+GENERAL DESIGN: 37/40
+Functionality - everything works great, no complaints here.
+Connectivity - everything does tie together, in a way that makes it hard to get lost, but none of the connections are particularly interesting, more just very much in keeping with vanilla mario world connectivity logic (not a bad thing, just nothing outside the box)
+Events - the auto-walk events are configured properly so you auto-backtrack after you crush switch palaces, all the other events work well too, there's a good bowser's valley reveal and the custom music helps make it feel interesting beyond just a vanilla homage, definitely nothing to fault on the events side of things.
+
+AESTHETICS: 47/60
+Visuals - some nice little flourishes here and there (the fire in world 7, the surface-breaching cheep cheeps on the main OW), but pretty bare bones compared to some similar entries, making this one stand out slightly less than it could have with a little more time put into the visual ambience of each submap.
+Shaping - geometrically interesting, but not in a way that goes far beyond the traditional shaping you see in vanilla. every available inch of space (and some of the off-screen margins too, for that matter) was seemingly used to construct this set of overworlds, and i appreciate the maximimalist approach to filling out your terrain, even if it kind of bleeds mario off the screen in several places.
+Atmosphere - not a ton of atmosphere, though the consistent link to the past music forms a nice throughline in its own way. the mood for each map feels very traditional/nodding toward vanilla, with a classic underground, a classic FOI, a classic valley of bowser, etc. the star world here kind of underwhelms as more or less a straight line with little visual flourish, but otherwise each map has its own vibe that it explores fairly well.
+Perspective - pretty traditional stuff here, and that's fine for what this is. this set of maps feels pretty indebted/inspired by vanilla, so it makes sense that it would follow similar logic/etc. in terms of perspective.
+Level Names - very good stuff, very evocative, at times even fear-inducing for the player even though there's no levels to play (e.g. race against rambi, gulp).
+
+OTHER NOTES:
+definitely some of my favorite level names in the contest, because they're pretty straight-faced in terms of giving you a sense of what the levels entail, but they're intriguing versus your normal variations on vanilla names/themes/etc., with a level of specificity that really helps you imagine what horrors might lie inside each level.
+
+ENTRY #19:
+OVERALL SCORE: 94/100
+GENERAL DESIGN: 34/40
+Functionality - there's a red dot in "The Tame East" that doesn't seem to have a secret exit, but beyond that, everything seems to function super well in this set of maps (the star world doesn't do anything, but there's a disclaimer about that, so i'm not inclined to dock points there for any reason)
+Connectivity - some of the connecting paths are a bit abstract and esoteric, but once you figure out where to go, things do connect very well, and the worlds intertwine in interesting ways to boot. some unnecessary padding here (a same-submap warp pipe in the ice world to get you down to the bottom path, i feel like you could have just pathed it from the top half and done a cool connecting event, but it also added a sense of false suspense, like "where am i going to pop out," so idk it's fine)
+Events - very cool event work here, definitely some of the more ambitious stuff in the contest. i'd have loved to have seen the completed star world and the events i imagine it might have had in store, but the lake drain in the starting submap grabbed my attention early on, and the rest of this set of maps kept delivering from that point.
+
+AESTHETICS: 60/60
+Visuals - definitely among the best in the whole competition. that star world is amazing, the tame east is breath taking, the handmade SMB3 level dots/mushroom houses are some peak VLDC tile merging goodness... this one really is pretty faultless when it comes to aesthetics, opting to maximize merges and other VLDC tricks over just having in-level sprites repurposed onto the overworld.
+Shaping - very ambitious stuff, that didn't always land, but when it did, it *really* landed. the volcano! everything about the tame east! the upside-down final world that somehow isn't a nightmare to guide yourself through! excellent work all around.
+Atmosphere - in terms of the atmosphere of individual submaps, this one is pretty hard to top. still not a huge sense of overall theme/motif across multiple submaps, but some of the most striking submaps of the whole contest, so not a big deal since it still resounds with mood and vibes at every turn.
+Perspective - some super wacky stuff here, especially with the tame east and the upside down final world. definitely feels like this creator was more willing to take risks than a lot of other competitors this year, and for the most part i think they stuck the landing on basically every attempt.
+Level Names - very good level names, i've always been fond of the title | subtitle structure of level names a la truc bidule and etc., and this one does that very well. it also helped to establish a sense of place, which was also appreciated given how abstract some of the pathing was at times in this one.
+
+OTHER NOTES: really a zenith entry in terms of stretching VLDC rules to their fullest, and definitely one of the standouts of the competition in terms of raw ambition. scrolling on the overworld and seeing hacked in VLDC-rule-conforming SMB3 level dots was a total delight.
+
+ENTRY #20:
+OVERALL SCORE: 90/100
+GENERAL DESIGN: 30/40
+Functionality - honestly shocking that you made this conceit work at all. hard to evaluate functionality since you turned an overworld into a pokemon starting town, but in terms of it functioning for its own purposes, it works shockingly well.
+Connectivity - n/a... hard to evaluate connectivity in an entry with no levels that is basically a hack of a game into another game entirely.
+Events - that you managed to put event work into this at all is super impressive, and the collectibles aspect is a stroke of genius, as well as a great incentive to poke around the area and explore all it to its fullest.
+
+AESTHETICS: 60/60
+Visuals - i am genuinely in awe that you made pokemon out of SMW using only VLDC rules. truly the most ambitious entry in that regard, and an absolute triumph of execution.
+Shaping - ummmm... i mean, how do i even grade this? you shaped SMW into pokemon. pretty much perfectly. there are no levels. i'm pretty at a loss for how to even define this map in the context of this contest's rubric.
+Atmosphere - it's pokemon. eerily, uncannily pokemon. the atmosphere is monadic but it's flawlessly executed.
+Perspective - fully isometric, identical in perspective to the source material it's nodding to. pretty astonishing stuff, truly.
+Level Names - level names were reused here as dialog between the player and the "NPCs" on the map, which is a very clever way to still use level names in a map with no levels.
+
+OTHER NOTES: absolutely incredible, an entry on the far margins of what an overworld can mean, and totally distinct from every other entry in this contest.

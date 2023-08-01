@@ -1,0 +1,494 @@
+
+
+====================================================================
+OWDC2023_Entry_01
+====================================================================
+_________________________
+~~~General Design [35/40]~~~
+
+	* Functionality - Perfectly functional, even with a lot of levels being at odd, condensed angles. There is only one real notable point here, where Postgame Endgame's climbing exit is just way too dang long, and could've been 4 or so tiles shorter without much issue.
+	* Connectivity - The levels are strung together in a nice circuit that makes logical sense, although it's a very long and linear circuit without much in the way of shortcuts or double-backs. Going to any one particular place can be a bit of a trek.
+	* Events - Mostly just path-filling events with some tree clearing- fairly mundane stuff. The Tundra Plains events that come from the forts don't quite make sense for the distance they have, but it was an interesting choice and could probably be something justified in the context of a story. The event that unlocks the Purple Switch Palace I feel really takes away from the appeal of Cotton Skies, which looked quite a bit nicer with the small bit of forest before it was cleared.
+_________________________
+~~~~Aesthetics [55/60]~~~~~
+
+	* Visuals - Colorful and vibrant, particularly in the submaps more than the main map, but color choices are bold all around. In general vanilla and recycled vanilla assets are used to great effect, and no place feels samey or recycled even if they are very similar areas.
+	* Atmosphere - Every music choice feels solid, and makes the map feel like a proper Mario journey. The animations that are applied to each area really makes them feel alive, notably with the bubbling lava in World 7 which really ties everything together. I'm also very fond of the evening sky in World 5 and how it transitions into an evening cloudscape in World 6.
+	* Shaping - Each of the different land masses have a lot of variety - nothing is overly flat or boring, and there was even a good amount of effort that went into creating things like strata on the cliffside.
+	* Perspective - Nothing really stands out as particularly weird, and in fact there are some very nice overhangs or diagonal waterfalls that are very nicely implemented. The interior of the eastern overhang could've been indented a little bit more to really pull of the effect flawlessly though. As for existing in a contained space, there's something very strange about the snowy mountain existing directly next to a desert, when there's usually more effort that goes into the transitions between worlds.
+	* Level Names - Sometimes imaginative, but mostly a bit too generic. May also not be very indicative of the level based on the geography (maybe "Thick Marsh" could actually be over a marsh instead of close to it, etc)
+__________________
+////// OVERALL: 90/100 /////////// 
+
+
+
+
+
+====================================================================
+OWDC2023_Entry_02
+====================================================================
+
+_________________________
+~~~General Design [28/40]~~~
+
+	* Functionality - This main map seems to be more like a hub that connects worlds directly than one with levels to explore, which is fine - it gives some interesting paths that bobs and weaves through all of the tough terrain at least, though it's awfully lonely without the actual worlds to connect to.
+	* Connectivity - Though there's no actual connection to the pipes, the implied effect of Mario traveling up a mountain as he advances through the game is a strong layout to set a hub man over.
+	* Events - N/A
+
+_________________________
+~~~~Aesthetics [57/60]~~~~~
+
+	* Visuals - I'm really impressed with how this was delivered here, even though the world itself doesn't have a huge variety in its palettes. The map uses simple colors to extremely good effect by greebling mountains and forests, giving them a very unique texture. Vanilla bush tiles are used to great effect to make forest canopies, though having vanilla trees next to them makes the effect weird.
+	* Atmosphere - Rather than going for something more bold and adventurous, it feels more cozy and fitting for a hub map.
+	* Shaping - The shapes of mountains is extremely inspired, and they look much more rugged with the way they play with lighting. Rather than being a set of plateaus with sheer cliffs, the landscape has a lot of gentle and steep slopes that vary in intensity. It's great to judge something and learn some cool trick out of it, too.
+	* Perspective - Very unique - not quite Mario's vanilla perspective, but something at just the slightest angle going by the shape of the shorelines. This angle also shows the horizon line, though the actual effect used to show it off looks to be a bit unfinished. I love being able to see different worlds from the main map zoomed out like it is here, since that really makes the world feel like a complete, 3D space - though the leap from the top of World 4 to the ocean below does hamper that a little too.
+	* Level Names - Tantalizing and weird. I definitely am punching the air after being unable to see some of these places on offer.
+
+Extra Notes:  I really hope that this becomes the stepping stone to an actual hack some day, because it's very interesting to imagine what else your style can pull off.
+
+_________________________
+////// OVERALL: 85/100 /////////// 
+
+
+
+====================================================================
+OWDC2023_Entry_03
+====================================================================
+
+_________________________
+~~~General Design [33/40]~~~
+
+	* Functionality - I like the variety of shortcuts and exits to previous levels that connect everything together, and nothing feels too boringly rigid. I do think there are a few issues though, such as how separated each of the paths are in the main map which causes the whole thing to just take up a lot more space than it needs to.
+	* Connectivity - There's a very nonlinear design in play where traveling up the mountain has multiple paths, and the final map can even be approached from multiple angles.
+	* Events - In between the path-filling is actually a few interesting events that change the landscape in big ways. Ground getting pulled out from the mountainside to make a path, sand bars forming, and most notably the clever volcano eruption using the earthquake sequence.
+
+_________________________
+~~~~Aesthetics [28/60]~~~~~
+
+	* Visuals - Honestly a little weak - there's not a lot of variety to the different worlds even through their color palettes, which on the whole are awfully faded. There are too much large swathes of 'patch' patterns, though there are some submaps that do well with different textures. Star Plateau however is very nicely made, with plenty of colors and features that even fit the different maps that it connects, and the slight fade even works to its favor by giving it a dream-like feeling.
+	* Atmosphere - The music in general is nicely chosen, outside of the vanilla SMW map theme in Emerald Peninsula, though there's something missing in each of the maps to really make them pop and feel unique. Once again, Star Plateau does have that with its cloudy vista and colorful arrangements of mountains - I think each map really needs at least one detail that can be pointed to as a defining feature.
+	* Shaping - The map is fairly rugged and doesn't feel too flat outside of places where that'd fit, and there are even some spots that have sloped terrain. That said, it's also very blocky and too big, since it has to fit 3 consecutive worlds back to back, and it doesn't make the best use of its space.
+	* Perspective - All in all, not bad work on making everything look cohesive, with maybe a few gripes. Ruby Volcano's exit before the next world is confusing, and doesn't really look like it's descending towards the big bad's lair; more like it's going down towards the pipe. I also think the map could make it easier to tell where certain worlds actually are, since there aren't really much hints to other worlds even existing outside of the forest map.
+	* Level Names - Level names are fun, sometimes vulgar, and I like the precious stone motif.
+
+_________________________
+////// OVERALL: 61/100 /////////// 
+
+
+
+====================================================================
+OWDC2023_Entry_04
+====================================================================
+
+_________________________
+~~~General Design [32/40]~~~
+
+	* Functionality - Levels are joined well enough, with plenty of good secrets and branching paths. The shortcut between world 2 and 5 is a little extreme compared to any other, but it does help unite the world a little bit and make it easier to cross since there’s not much else.
+	* Connectivity - The immediate map-to-map connectivity makes sense for the most part, but it suffers a bit for not having the maps really hint at other locations very much. Warping to the flooded cave by jumping into the water is logical, or climbing up to the sunset clouds on the side of a mountain, but not having some kind of intrigue about them that you can see by panning around the map weakens the score a bit.
+	* Events - Purely functional, with the most complicated ones simply being bridges assembling or small rock formations submerging to reveal levels.
+
+_________________________
+~~~~Aesthetics [37/60]~~~~~
+
+	* Visuals - The map design for a lot of the areas are having a visual idea and dotting the map with it, which sometimes works and sometimes doesn't. On the stronger end is stuff like Sakura Plains with its cute pink trees and hills, or Burning Volcano's fire. The Mountain's mushrooms or Castle Kingdom's castles are more goofy and don’t add nearly as much.
+	* Atmosphere - The atmosphere of some places is actually a really strong point. On the whole, music choices are top notch and palette choices are appropriate for the environment. Some areas of particular note are Sunset Clouds and Burning Volcano thanks to great palette work and a good use of horizon lines.
+	* Shaping - Landscapes are mostly just large and flat with some interesting decorations on them, but the submaps do a more interesting job with their variety. A pretty large swathe of the overworld map is taken up by a set of copy-paste islands in the northwest corner, which seems like a wasted opportunity to move the maps around to give a better sense of connection.
+	* Perspective - On the whole the maps are solidly built and there aren't any weird errors, though there are two things of note: the vines of the jungle stretching up at the east are hard to tell apart, and probably could've been hanging onto something to give the map some more flavor. Also, the base of the mountain in Burning Volcano goes well past the horizon line of the sky.
+	* Level Names - The level names are in tandem with the world names, which on the whole are pretty surface level. Vines in a jungle? Call it Vine Jungle. Castles in this Kingdom? Call it Castle Kingdom. Mycelium Mountain had some promise with the alliteration, which I think would've elevated this a bit more if the rest of the maps could've had something like it for the naming convention.
+
+Extra notes: Vine Jungle has rock climbing instead of vine climbing? Bit silly.
+_________________________
+////// OVERALL: 69/100 /////////// 
+
+
+
+
+====================================================================
+OWDC2023_Entry_05
+====================================================================
+_________________________
+~~~General Design [22/40]~~~
+
+	* Functionality - Paths are mostly flat, straight lines with very little curvature, though they are at least quick to travel between. It's sometimes very difficult to tell where there is or isn't a path since the way around isn't always visible (one of the level tiles is a secret where there isn't one). There's also an unfortunate fatal flaw in the forest world where the player can escape from the path through the star and softlock.
+	* Connectivity - It's good that there are actual elements of certain submaps that are visible in the main map to anchor everything. However, the way certain maps are connected don't quite logically flow, such as the mountain map's entire circuit only skipping one level. The other mountain map is also stuffed with star warps, two of which lead to the same place, and also making the actual Star Road less useful for navigating.
+	* Events - N/A
+_________________________
+~~~~Aesthetics [12/60]~~~~~
+
+	* Visuals - The palettes of the map are generally just green, brown, and gray, and really needed more variety - three worlds even have identical palettes. Paths are often jagged where they aren't simply straight lines.
+	* Atmosphere - The music choices work for their areas, though there isn't much for the music to work off of.
+	* Shaping - The maps are generally flat, and none of the submaps have more than one level of elevation. The best map of the bunch is the northernmost mountain level, since it's at least a tri-color palette that cuts through the landscape in an interesting way.
+	* Perspective - The landscapes look right for the most part, but the waterfalls in the southern lake overextend beyond where they should realistically land.
+	* Level Names - N/A
+_________________________
+////// OVERALL: 34/100 /////////// 
+ I don’t think this is a very stand out map, but I’d keep at it - tile mapping can click once you get accustomed to it. I think my best advice would be to take simple, colored tiles and use those as a base before working on top of it. When you work on it over time and see other people’s work, certain things like how to fit details into small spaces or what the best colors to use slowly become second nature.
+
+
+
+====================================================================
+OWDC2023_Entry_06
+====================================================================
+_________________________
+~~~General Design [38/40]~~~
+
+	* Functionality - The map is made on a strong wheel-and-spoke design rather than a circuit, which is a welcome change of pace. The map doesn't have too many shortcuts or surprise palaces, but the circuit of each map at least makes it easier to double back after destroying a castle. Special shoutout to the ice mountain, which uses its spiral up the mountain to great effect. Additional shoutout to the speed of the player - these paths are long enough where you would've gotten a score penalty otherwise.
+	* Connectivity - The maps aren't terribly interconnected, and exits are only really used in one place per map. The warp pipes do at least help a little to make the worlds not totally separate, but on the whole the actual progression of the map is very strong. The player isn't overly funneled into one set path, and any choice they make will lead them forward.
+
+	* Events - This is an odd case, but I appreciate that if the entry is only going to have a few events, that it would make them count. They are more used for functionality than anything crazy, with the notable exception of the recessed lava in the volcano, but it's good that the map can still hold a few secrets this way. If I had any critique on this, it'd be that larger tiled events are too sudden, and could use some extra frames to move land masses around instead of blipping in in one frame.
+
+_________________________
+~~~~Aesthetics [48/60]~~~~~
+
+	* Visuals - Very fun and varied, with a lot of extra help from regular level assets. The palettes in maps have a good variety even within hues of the same color. Nothing looks too samey or overwhelming. My biggest thoughts here are that the SMW sprites embedded in the walls stand out in an odd way, especially since they can't really bend to the shape of the cliffs.
+	* Atmosphere - The use of music combined with the nonlinear trawl really gives a greater sense of adventure to the map. Each map has a very distinct vibe to it that is all its own.
+
+	* Shaping - The geography of the maps each have a strong identity to themselves that each make perfect sense in the world's overall layout. It does this without cramping the levels too much as well, which can be tricky to balance. The biggest fault is that it relies a bit too much on sheer cliffs, which are just so overwhelming. The volcano is probably the weakest landscape for being a square circuit, even with something more interesting in the middle. The shapes are also rather towards the safer, vanilla side of things, but bonus points for the stalactites of Bowser's lair. Also well done on the small cavern shortcut in the icy mountain that actually obscures Mario.
+	* Perspective - The vanilla sprites on the sides of the mountains are the biggest problem here, but there are some errors in the landscapes themselves; the two green tablelands in the very middle of the main map are both higher and lower than each other, land masses butt up against cliffs in impossible ways, and Bowser's cave opening conflicts with the shape it's cutting through.
+	* Level Names - Overall pretty fun choices of names, cut with some more standard, descriptive names so it's not overbearing with puns all the time.
+
+_________________________
+////// OVERALL: 86/100 ///////////
+I’m biased about nonlinear design
+
+
+====================================================================
+OWDC2023_Entry_07
+====================================================================
+
+_________________________
+~~~General Design [35/40]~~~
+
+	* Functionality - This entry has very limited pathing, and though there aren't many "real" branching paths, the actual layout is at least varied and very well put together. There are a few flaws here though, such as the 1st castle not moving Mario through it's exit (on top of that path not being very obvious), the trek from the lightswitch taking players back through the same spot they'd just finished without any extra flourish or shortcuts, and how "The Back Trek" should've existed on an alternate map so that the rope that connects it to the 1st world could actually spawn at the same time it's usable.
+	* Connectivity - This world generally focuses on a more linear, story-like arc, and the connection between maps at least makes a lot of sense side by side. The narrative feeling of the map probably would've been undercut with something that let players skip areas after all. The definite conclusion it has via a one-way warp is also a very unique detail.
+	* Events - They are almost entirely path-making without many really impactful events, but there is a very welcome exception with the dark chasm that becomes illuminated by activating a switch palace.
+_________________________
+~~~~Aesthetics [57/60]~~~~~
+
+	* Visuals - There's a great variety of different areas on display that stand out from each other, even though there's a big overlap in the actual palettes and landscapes. I'm very impressed with the kind of world that can exist here with only vanilla visuals! Special note on the dripping eclipse by the cliff, and how that area turns into a colorful vista after escaping from the Berg.
+	* Shaping -  The actual geography of this cave is solid, though somewhat ambiguous at certain points since it's hard to gauge how certain maps should actually exist when taken in as a whole. This could be chalked up to a choice to make the map even more mysterious, so I'll do that. The amount of effort that went into crafting landscapes even for large swathes of areas which are completely unvisited is top-notch, and it does a terrific job at feeling like an actual three dimensional environment.
+	* Atmosphere - The sense of mystery and foreboding is unmatched here, and with an arc that wavers between something serene and bleak. Music choices help it along a lot
+	* Perspective - Extra marks on this, since the landscape still works excellently even though it is much more complicated than usual. The waterfall that pours away from the camera is particularly worthy of note.
+	* Level Names - The names have much more of a somber tone befitting of the world, broken a bit by the misspelling of "crevice" or the level "Dry Boned." It does give the impression of a thesaurus tab that kept being closed and reopened, but for the most part they are well named.
+
+_________________________
+////// OVERALL: 92/100 ///////////
+
+
+
+
+====================================================================
+OWDC2023_Entry_08
+====================================================================
+_________________________
+~~~General Design [29/40]~~~
+
+	* Functionality - The map almost operates well enough - paths aren't overly linear and have plenty of variety with bonus levels and split paths. However, the biggest mark against this is Egg Wastelands, which has two instances of being able to go off-course to softlock the game.
+	* Connectivity - The shortcuts without any clear 'definite' path makes it a bit tricky to navigate the map in its numeric order, though that's something that would've been a non-problem in a full game where the paths aren't all available from the beginning. The star warps and their positioning don't quite relay their position on the world, and using "world x" instead of their actual names doesn't make it much easier.
+	* Events - Almost N/A, but there is some consideration for the Special World colors that can be unlocked!
+_________________________
+~~~~Aesthetics [43/60]~~~~~
+
+	* Visuals - The colors are bright and saturated, and really impart a good Mario feel, on the Overworld at least. It's interesting that most of the submaps are much more dour caves or badlands, and there's a good weave between the two tones. The landscapes also aren't overly bland, and have plenty of variety in small tiles and textures without being too crowded. Something to note is the Special World palette, which puts the world more into night time, but most of the colors are only really appealing in the submap - the main map just kind of looks damp.
+	* Shaping -  I'm of two minds here, because there's plenty of good landscape shapes so that most places aren't too boxy or copy-pasted, but the map is almost entirely flat with very rigid heights here and there. It is at least more varied than the original vanilla game's map for the most part.
+	* Atmosphere - It's a very peppy kind of atmosphere for the most part, fitting in very nicely with Mario's overall aesthetic audio-visually, even the darker places. The Cookie Void map is of special note for the dark-neon visuals.
+	* Perspective - The very basic landscape at least makes it simpler to make the perspective without any glaring flaws. In fact, special note for the bit of land that obstructs Mario while he passes by it in Meat Mountain.
+	* Level Names - The worlds each have a food motif appropriate to their location (for the most part; what's so cookie about a void?), but they aren't too restricted to these conventions either and have a good amount of variety in their actual names beyond [WORLD] and a number.
+
+_________________________
+////// OVERALL: 72/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_09
+====================================================================
+
+_________________________
+~~~General Design [22/40]~~~
+
+
+	* Functionality - The paths are strung nicely together, barring a few problem spots where they are much too long. The start in particular is a very nicely implemented spiral mountain that uses layer 1 priority to great effect, and while there aren't nearly as many out-there bits to this map, things still flow rather smoothly. The biggest problem, aside from more surface level stuff like certain level icons being red or yellow when they don't have the correct number of exits, is that it can be very tricky to navigate since there are hardly any visible paths. Oh, and also a few teleport spots can be exited to the left and cause a softlock - kind of a big issue.
+	* Connectivity - For having as few submaps as it does, the connectivity is particularly clever with how warps are utilized to simulate cave entrances or warps between mysterious towers. The bridge-crossing near the south of the map is a creative idea on paper, though I don't think going for it in vanilla constraints was the best idea when you can't help but make it black out the screen for a second.
+	* Events - N/A
+_________________________
+~~~~Aesthetics [37/60]~~~~~
+
+	* Visuals - The visuals on the whole are a bit lackluster, having large swathes of very little and not much in the way of detail or decoration. I feel it was intended to be fairly minimal, but maybe something like that would be better handled as a bizarre space in a more intricate map than having the whole thing be mostly featureless.
+	* Shaping -  The strongest parts of this map shine a lot with how well slopes are handled, even across vast distances, with plenty of variety in the landscape. Areas are strongly separated and have their own identities without having to be rigid archetypes like snow, desert, water, etc, which was a very nice thing about the original game's map. The weakest parts are the towers to the south, which don't have any environments to really interact with like the towers to the north, but especially the lava fields to the south-east, which weren't really done justice with the vanilla lava moat tiles.
+	* Atmosphere - For as much of the graphics are vanilla with very little extravagance, the atmosphere is surprisingly somber and mysterious. Having only one map theme is a bit of a downer, but it at least fits the mood of the map like a glove. This is going to sound odd, but the music breaks the sound effects of the map in a way that kind of enhances its mystery - trying to enter levels creates odd noises like static, and it’s bizarrely fitting.
+	* Perspective - Very strong in general, but there are some spots (like the north-west ice mountain's base) where the slopes really could've been better defined. The shape of the larger towers is also a bit off, since they are rounded at the top but square at the bottom.
+	* Level Names - Full of intrigue and mystery, and even kind of telling a story of discovering different logs of some prior adventurer.
+
+_________________________
+////// OVERALL: 59/100 ///////////
+This is one of those entries that I like more than the score implies - I think a hack that uses this world as a blueprint could be really cool and memorable if it can capture its sparse, lonely atmosphere of mystery.
+
+
+====================================================================
+OWDC2023_Entry_10
+====================================================================
+_________________________
+~~~General Design [33/40]~~~
+
+	* Functionality - The only real problem here is that paths are much too far apart for the speed Mario travels at; the long stretch of climbing near the middle is a particularly sore spot. Much of the map is very sparse and spread thin, and generally feels like it's missing one more quadrant. It’s definitely a map that wasn’t made with standard conventions in mind.
+	* Connectivity - The connection between each world is very novel by using one way paths, though for the most part there's only a linear path with a couple of branches that lead to shrines. Special note on the pop tart world though - it's a fun secret to find.
+	* Events - For the most part it's simply paths being filled up without any real effects on the map, but the one event opening up the ground for Mario to fall into does set up its big twist very nicely.
+_________________________
+~~~~Aesthetics [57/60]~~~~~
+
+	* Visuals - The bait and switch from the cuddly, twee 1st world to a sudden dark turn is a real treat. That initial world is actually quite appealing in its own right, but the bizarre world of the void and its white outlines, plus the pitch darkness of the whole landscape that still keeps a vibrant color scheme is a really great contrast.
+	* Shaping - The blackened cliffsides is a really clever way to imply more complex landscapes and formations than is actually shown, which could've been too busy or too odd looking if more detail had to be shown. None of the void's islands are more appealing on their surface than the initial world though, which has more variety and doesn't feel as though its elements are rigidly separated.
+	* Atmosphere - It was a very nice touch to have world 1 start out the way it does, because the gloom of the void world is so much stronger than it would've been had things been in the void from the word go. The non-music ambience of the map does wonders for it as well, and while the pop tart world does kind of shatter that a bit, it's a very silly little secret that helps things not be too self-serious as well. PS- Thank you for ruining the grass tiles for me, I'll never see them any other way.
+	* Perspective - A little odd in some spots. Though that's probably intentional to be weird, they're worth pointing out - the island to the east is kind of appealing in this oddity in how it sinks below the ocean while not actually touching it, as though the water halts in midair. The waterfalls all around are more subtly off, where they don't fall at an even height - I think having more paradoxical perspectives on the land in addition to the water would've helped sell the oddness there a little better.
+	* Level Names - A set of very gritty, almost entirely one-word levels help sell the kind of bleak place Mario landed into, especially after something as hokey and innocent as "Sunshine Stroll."
+
+_________________________
+////// OVERALL: 90/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_11
+====================================================================
+_________________________
+~~~General Design [38/40]~~~
+
+	* Functionality - Not only really solid, but it uses crossroads in very inventive ways that I've never really seen even in actual complete hacks. Pathing is also solid just as inbetweens, and levels are connected in very tight corners and angles that are very tricky to assemble. 
+	* Connectivity - The maps have plenty of forks and twists without being too difficult to navigate, and they flow to each other in a sensible way. My biggest problem here is how much the navigation relies on warp pipes, which is fine for shortcuts between worlds, but it dampens the joy of finding a new place hinted at in the world, which is only really seen in the cave entrance and forest.
+	* Events - N/A
+_________________________
+~~~~Aesthetics [55/60]~~~~~
+
+	* Visuals - This does a really good job of following the traditional Mario fare for its design, but isn't totally restricted by it either. For as few submaps as there are, the variety between them makes them pretty memorable. The color choices are more monochromatic than I would've liked, but on the whole the actual palettes have vibrant and appealing colors. The ground and water textures are also very well placed, and nothing looks too vacant or too busy. The biggest problem that I can point to is that the waterfalls in World 2 could've used a different color, or some kind of detail to separate the falls, from the rest of the water, since they blend in too much.
+	* Shaping -  For all of the great visual designs and tile tricks that the map has, the landscapes are surprisingly simple. The rough terrain that is there is well made, but it’s weird that the misty mountains, the most intricate spot in the entry, is pretty much a non-area as far as exploration goes.
+	* Atmosphere - It nails the friendly Mario aura. The music choices adequately complement the worlds they are attached to, and the whole thing is just so dang cozy.
+	* Perspective - There aren't any notable errors, nor is there anything too ambitious to mess up over the land. A special note on the effects around the seas however: the horizon to the north and the shadows the clouds cast at the south are both really wonderful little tricks to add.  The waterfalls that Mario appears behind in the cave map is also worthy of note.
+	* Level Names - I have it on good authority that these level names aren't funny nor creative, but I dunno they seemed like a kind of good, goofy time. They veer dangerously close to just being dumb at times, but I got a kick out of things like the Switch Palaces's little running gag.
+
+_________________________
+////// OVERALL: 93/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_12
+====================================================================
+
+_________________________
+~~~General Design [32/40]~~~
+
+	* Functionality - Solidly constructed all around, with a few issues to note. The only really big problem is that "Lets-a go!" can be exited to the right without beating the first level, but I hadn't found any other problems that big. Otherwise, the actual structure of the map puts levels very far away from each other and with lots of climbing tiles, so actually navigating the map can be a bit of a slog. However, the actual paths manage to navigate very odd positions and tight quarters very well.
+	* Connectivity - The map is an almost entirely linear affair with only a few shortcuts around, which is fine though I'm unsure if having a shortcut whose only purpose is to skip over the cave world is very necessary. There are actually a good amount of branched paths, but they otherwise don't do anything but bypass one or two levels at a time.
+	* Events - Mostly just path-filling events, but there are bridges that get built and hills that sink into the ground (and in multiple steps, not just all at once), so there is some impact on the world being made over the course of the map.
+_________________________
+~~~~Aesthetics [52/60]~~~~~
+
+	* Visuals - Very striking use of colors all around. The blue is maybe a little overwhelming in the main map just because there's so many cliffs and bodies of water with that deep, blue hue, but they are complemented nicely with pinks, purples, and greens without being too muddy. The submaps are similarly colored well, with a good use of contrasting purples and greens in a way that doesn't look painful like I find those two colors together usually. The graphics are well suited for this kind of dreary dream world even though it's purely vanilla without any tricks.
+	* Shaping -  This entry has a very strong landscape that's rugged and hides a lot of small details in the terrain, the kind that is very enjoyable to imagine in a 3D space. While there aren't any slopes, nothing is too level or flat, nor is there repetitive litter. The weakest aspect of this map is how sheer the west side of the main map is, which ends up making it too sparse, as well as the forest map which makes a little too much use of big trees and ponds and not much else. The rest of the submaps are extremely well shaped and molded however.
+	* Atmosphere - Everything fits as being part of a moody dreamscape, in addition to the colors. The songs have a somber tone to them that fits some of the more abstract imagery, which could've gone a little farther but I enjoy what's there. The upwards waterfall is a simple effect that still sells something bizarre, and the moon patterns are very inspired. The forest submap has a relatively boring design, but it does at least sell a dark forest very well by being surrounded by a black fog around all corners.
+	* Perspective - As far as I can tell, everything is built to snuff and there aren't any obvious perspective errors. Honestly this is one of those maps where something completely crazy would've fit the dreamlike aura.
+	* Level Names - All of the level names together make up the greatest philosophy 101 paper about Mario the Idea Vs. Mario the Man ever written. If the level names couldn't be purely original, then I'm kind of disappointed that branching paths couldn't have had levels based on the teacher's grading notes or something, because instead it just truncates the sillier parts. 
+_________________________
+////// OVERALL: 84/100 ///////////
+You can't just say "Perchance" 
+
+
+====================================================================
+OWDC2023_Entry_13
+====================================================================
+
+_________________________
+~~~General Design [38/40]~~~
+
+	* Functionality - The map is structured in a very interesting, nonlinear way which allows you to tackle worlds in a fairly unique order each time.  This entry makes great use of branching paths even beyond the main one you start off on, which is one of the only maps around that makes triple paths so common. The pathways are also made with a good variety of layouts, though Grass Town/ Crazy Mountain is rigidly built on a grid and is not nearly as appealing to go through.
+	* Connectivity - The way that worlds branch off like a wheel and spoke makes it kind of tricky to gauge where exactly you're going since the end of those paths are going to be connected by pipes without much context, but meandering is kind of the main appeal of the map anyhow. It is still tricky to try and go to any one spot in particular, but there are at least plenty of routes connecting submaps together. The only out and out flaw here is that Yoshi's Island seems fairly pointless as the  exit at the end of the map takes you to a pipe that's two exits from the starting point of the world.
+	* Events - There are a lot of terrain changes going on here that do a lot more than filling in path lines - nothing outrageous, but they are frequent and impactful enough to be a high note. Particularly nice was the Magma Mountain event that 'purified' the moon after beating Bowser, just a lovely little detail that adds a lot.
+_________________________
+~~~~Aesthetics [57/60]~~~~~
+
+	* Visuals - A very good go at the 'bright and cheery' traditional Mario style, with vanilla level graphics being used terrifically to make new assets. There's a great amount of effort that went into retooling graphics to be used in ways that make them like new, such as the bubbles being made into rainbows, or Pokey segments being recolored into regular cacti. The entry has a great use of exanimation in general, both for color cycling and for animated tiles which brings a lot of life to the world. Even the unanimated assets are used in great ways, and the variety of palettes and landscaping bits help make everything stand out in their own unique ways.
+	* Shaping -  In spite of the great visuals, the actual landscape is very flat and doesn't have many levels of elevation. Many of the maps wouldn't need to be so rugged and so don't suffer for this, but it does make something like Dead Valley's landscape a little samey by the time you get to it since many maps happen to be shaped like a basin next to cliffsides. Happy Clouds meanwhile benefits greatly from having a bit more ambition here.
+	* Atmosphere - Has a lovely and carefree vibe about it, almost Kirby-like in a way. It does appropriately ramp up to something more serious at the end, helped by both the visuals, palettes, and music. What's nice about the structure is that there's a lot of unique biomes around, which transition nicely into each other for the most part (though the ice world probably could've used something before just before it turns into snow and ice). Still, there was a lot of good effort here to make something that felt more like a little continuous world with distinct vibes all around.
+	* Perspective - The landscaping is pretty simple outside of places like Happy Clouds and Magma Mountain which have a horizon line, so I haven't spotted any major errors. There is something odd with the path north of Top Secret Area, which connects to the water as though they were next to each other even though it's on a plateau that's 2 tiles above the water. It could've been a bridge and there'd have been no issue.
+	* Level Names - Nothing particularly special, but they do fit the kind of chipper world this takes place in. The abstract world has more unique names for each of its levels and that helps it stand out even more than it already does.
+
+_________________________
+////// OVERALL: 95/100 ///////////
+Nonlinear bias ahoy
+
+
+====================================================================
+OWDC2023_Entry_14
+====================================================================
+
+_________________________
+~~~General Design [38/40]~~~
+
+	* Functionality - Works very well for its more linear design: paths follow pretty well together and pull off some tight corners. Shortcuts are here and there without skipping so much, and the Star Road connects the entire map together in a way that's not confusing to navigate. Said Star Road should've been in a loop instead of ending at the mirror, but that's a pretty minor thing.
+	* Connectivity - I love that the map frequently goes in and out of submaps without lingering on either for too long - it keeps the relative location of everything pretty clear in the mind, and it even goes the extra mile by having extra exits in submaps that aren't accessible on the main path.
+	* Events - Honestly this entry has some of my favorite events in the contest. The events aren't just filling paths, but they also affect the environment in very noticeable ways, with the most notable one being Sweltering Meadow being totally consumed by a nuclear fireball. The rest of the events are much more low key than that, but islands form, crevices open up, waterfalls unfreeze, and (my personal favorite) the land rises and pushes a small hill out of the way. There's a lot of personality in the events here!
+_________________________
+~~~~Aesthetics [42/60]~~~~~
+
+	* Visuals - The look of the map has pretty high peaks and pretty low volleys. The submaps as a whole are terrific, and do a lot of very creative things either by pulling from vanilla assets in the levels or just use regular map assets in a very inventive way (The Void and Mirror Forest being a stand out example there). The main map in turn doesn't quite carry that creative spirit and has a bit too little going on. While the actual landscape itself is very nice, it could've gone a lot farther if something like the blazing fireball/ cherry blossom trees had been present in the rest of the map too. Minor note: the choice of green in the main map is a bit iffy - could've had the outlines be a lot less dark, but overall the choice of colors is pretty solid and I like that most places have a variety of them as well.
+	* Shaping - I feel like this map does a terrific job with the landscaping, but it also happens to be very weak around the center of the main map. There's a lot of variety in the landscaping in every map otherwise, especially the extremely creative Mirror Forest. The only real problem I have here is that that effort is a bit lacking in the lake where the Void forms, including the waterfalls that surround it. They're simply too monumental and flat, and make a non-insignificant amount of the map feel more blocky than it is.
+	* Atmosphere - The choice of music and colors in most areas fit very nicely to give each place a unique vibe, and while I'm not totally in love with the main map it does really tie everything together with such an adventurous song that really makes all of the corners into a grander journey of some truly bizarre locations.
+	* Perspective - Pretty solid all around, but an extra mark for the visual trickery of Mirror Forest.
+	* Level Names - The level names are mostly just the world names plus a number, and the world names are mostly some bland adjective-noun combo. However, I do like the unique castle names, which are each a different kind of building outright and much more interesting than a generic number.
+
+_________________________
+////// OVERALL: 80/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_15
+====================================================================
+
+_________________________
+~~~General Design [32/40]~~~
+
+	* Functionality - No problems as far as broken paths, but the actual layout in general could use some spice. There are plenty of branching paths that keep things a bit more interesting than a direct, linear route at least.
+	* Connectivity - No big problems here either. Things are modeled very similarly to the Super Mario World design where there are a bunch of stars all over that connect to a Star Road that acts like a shortcut to the final world, but outside of the path to the Blue Switch Palace there's not much interconnectivity between maps.
+	* Events - They're pretty simple path-filling events without much else to bring them up.
+_________________________
+~~~~Aesthetics [20/60]~~~~~
+
+	* Visuals - The world map is pretty barren, both in terms of decorations and the way everything is laid out in general. There are some places that show promise in how they could've been made, like Worlds 1, 3, and 7 - mostly because they aren't loaded with identical ground tiles. Something to commend is how each map has its own distinct palette. Sometimes they're the same as the vanilla game, but the original colors across the board are nicely chosen. It's small, but the clouds are also a cute touch, and I like how there's a few sizes so that there's some depth to them.
+	* Shaping - There are a lot of areas that are absolutely massive and space-filling, and just make the whole thing look empty without much to break them up. The submaps are much better in this regard, with plenty of changes in elevation and no massive walls of nothing. In particular, Star Road has a great figure 8 shape to its design, but I wish that the main map had a similar amount of detail in its landscape.
+	* Atmosphere - Each map is at least a distinct archetype, and what few decorations are scattered around at least helps each area stand out against each other. However, the lack of custom music doesn't do it much favors to feel like a new experience from SMW.
+	* Perspective - Nothing particularly stands out as a problem here, but I will point out how clever the figure 8 path is in the star world - covering it up in fog actually does a good job of hiding the seams. The horizon at the top of the main map was also a very nice addition to the map, though I wish that the mountain didn't cover up so much of it.
+	* Level Names - Level names are almost entirely just numbers like in SMB1, so it's not really much of a factor.
+
+_________________________
+////// OVERALL: 52/100 ///////////
+Not a great score from me, but I hope you keep at it!
+I gave advice before, but another piece of advice for if the simple block colors doesn’t work is to try and make a path layout first, and then place the landscape on top of that. There’s a lot of really nice paths that manage to connect levels in other hacks for this very contest that are good to look at, and you’ll be surprised by what fits for the game without actually visually looking perfect.
+
+
+====================================================================
+OWDC2023_Entry_16
+====================================================================
+
+_________________________
+~~~General Design [37/40]~~~
+
+
+	* Functionality - The paths are very nicely assembled and have a lot of variety in their layout, barring one fatal exception. Some areas are a little bit too cramped, but overall it's a very pleasant map to navigate. I especially appreciate that multiple overworld songs are used, but the game never stutters trying to load between them just because they're never directly connected. Unfortunately, there's a major issue where going left on Into the Brambles derails Mario from the main path.
+	* Connectivity - Each of the worlds are interconnected in all kinds of wacky ways, with a lot of pipes leading all over. It actually gets a little confusing in places, because pipes or star warps don't necessarily lead to a place directly but have a small detour that is redundant in some cases.  The Star Road is also segmented in a way that makes it act more like a series of smaller shortcuts than something that unites the map in one big whole so trekking to any one spot could be quite a walk. On a minor note, the bridge over Apple Fields was a bit silly - it's been tried a few times in this contest, but it never quite feels natural.
+	* Events - N/A
+_________________________
+~~~~Aesthetics [59/60]~~~~~
+
+
+	* Visuals - Extremely strong here - there's a lot of little details all over the place that really make each map pop and feel so full of life. Each map has a strong gradient of colors associated with them that gives them their own identity while having enough variety within those colors to not be samey either. Great marks all around.
+	* Shaping -  Very great marks here as well - the map feels a lot larger than it really is by clever use of landmarks that make themselves apparent in the overworld before visiting certain areas. There are hardly any large stretches of nothing, either through sheer cliff faces or bodies of land or water - they're all broken up very nicely by bringing land masses that are interesting in their own right even though they are never visited. Special note on the overhangs in world 6, which were a very nice effect for something that's just off to the side.
+	* Atmosphere - There are good choices of songs all around that really bring out the different biomes that are explored, with special note on Heavenbound's elegant simplicity, stark white and yellow palette, and matching music. The only song choice I don't feel fit very well for its environment is World 6, which would've been better for a standard desert or valley than the final world with blood waterfalls.
+	* Perspective - No notable problems here, and extra marks for the hills that jut over paths and add some extra depth to the world.
+	* Level Names - Lots of nice variety in names, and feel goofy enough to fit as Yoshi's Island level names, though not quite goofy enough for many of them to stand out very much.
+_________________________
+////// OVERALL: 96/100 ///////////
+The One Piece is as real as the tile art in level 105 is nice.
+
+
+====================================================================
+OWDC2023_Entry_17
+====================================================================
+
+_________________________
+~~~General Design [28/40]~~~
+
+
+	* Functionality - There are actually quite a few problems here, most notably there are a lot of paths that can be crossed even though levels weren't actually beaten - the Star World in particular is full of bad exits like this. Also, many levels often don't automatically move onto the next tile after every event. If they never did, that would actually be fine, but going half and half makes it weird to traverse.
+	* Connectivity - No real problems here, aside from the very bizarre exit where moving south from the very 1st level takes you down into a cave that you'd have to travel very far east to actually reach.
+	* Events - Mostly path-filling, but there are a handful of events that do affect the world in some small way by manipulating the environment. The events in Asena Forest could've been handled a little more carefully, since they tend to clip trees in odd ways - going through the submap in a particular order can even cause cutoff trees after the events are complete. Some larger, 6x6 event tiles would've been handy to use here.
+_________________________
+~~~~Aesthetics [52/60]~~~~~
+
+	* Visuals - In spite of the above problems, the map itself looks pretty good. There's a wide variety of different colors with a more earthy tone, but with some pizazz here and there so it's not too overbearing. Hues are nicely chosen, and the landscape is dotted with a lot of good details that prevents anything from looking too massive and empty.
+	* Shaping -  Again, very strong design in the actual geography. There are well-made slopes that subtly add some nice value to the land and avoids making too many rigid plateaus.
+	* Atmosphere - Song choices are pretty sensible throughout, and make the whole map feel like a trek through a large, untamed world. Something I enjoy is that many 1st levels of particular worlds work to gradually enter the new biome being entered, so the world feels more fluid and not stitched together.
+	* Perspective - The landscaping is ambitious, but there were a few glaring perspective errors. Asena Forest 1 is connected to an island by a bridge that moves down, yet the two islands are of very different heights. Erlik caverns also have some odd land heights around Drifting Lake that look like they needed a waterfall to actually make sense. Lastly, the main map has quite a few paths that connect the top of tall islands to the water even though it'd actually be a huge drop in 3D space.
+	* Level Names - I really enjoy the world names being more original instead of basing themselves off of a set of items or something. Gives them a bit more of a unique edge, like there's a culture that the world takes place in, and the subtitles of the levels are full of intrigue.
+
+_________________________
+////// OVERALL: 80/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_18
+====================================================================
+_________________________
+~~~General Design [34/40]~~~
+
+	* Functionality - Levels are linked together in some very compact ways, and I couldn't find any paths that could be crossed without beating a level. All in all pretty good - if I had any complaints, it's that some paths take completely ridiculous routes that take a while to cross, even with the increased speed - it gives the impression that the landscape was made first and then the levels were crammed in on top of it.
+	* Connectivity - No real problems - the star roads are plentiful and make it easy enough to navigate the world quickly, and pipes are used sparingly and in ways that make sense. It never feels like you use one and have no idea where you are relative to any other place.
+	* Events - Mostly just path-filling, and not a lot of stuff that makes huge effects on the world. Small stuff like a pond opening up in World 2, or bridges and ladders being built were appreciated though.
+_________________________
+~~~~Aesthetics [48/60]~~~~~
+
+	* Visuals - I enjoy the variety of ground textures and animated assets, though the palettes between the worlds can get a bit samey. On the whole, I believe colors were chosen well except that the contrast with many of the land tiles and their edges are a bit too strong.
+	* Shaping - There's a lot of variation on land and nothing feels too flat or monumental. A very common feature of the world is something like an infinity pool of water/lava touching the very edge of a cliffside, which could've been nicer if there were a lot of smaller waterfalls overflowing them, but they look too odd as shown.
+	* Atmosphere - Something pretty unique about this map is that the whole world feels very wintery and cold, even though it's not covered in a sheet of ice everywhere. Cooler blue and green colors are abundant, and a lot of the music fits these kinds of temperatures. Only the first and last world have much warmth to them, which is fitting.
+	* Perspective - Haven't really seen any major errors, but one detail that I enjoy is that the tall island that the 1st world takes place on towers over every other world, and it's as though you can see the entire place from that particular vantage point once you leave.
+	* Level Names - N/A
+
+_________________________
+////// OVERALL: 86/100 ///////////
+
+
+
+====================================================================
+OWDC2023_Entry_19
+====================================================================
+
+_________________________
+~~~General Design [34/40]~~~
+
+	* Functionality - This is one of a few maps where even just the general way levels are navigated can throw you for a loop. Sometimes that’s to its detriment - I can’t say I’m crazy about the areas that are SMB3-styled (if anything, having just one area be an homage would have sufficed - two areas makes it just seem inconsistent). The difficulty of finding certain pathways is also a common issue.
+	* Connectivity - Exits seem to work properly enough, so no problems there. The actual route some of the exits take can be a bit of a head scratcher, such as Hexagon Iceland being due east of Tame East, or the top of a mountain transitioning into a Cloudy Corner by warp pipe (if anything they should've been switched). The lack of a Star Road is a bit of a bummer, but it was at least clear that it would've been a handy way of warping around.
+	* Events - There are some incredible events on display, especially in the 1st world, and the river flooding the basin in The Tame East, but it quickly gives way to non-events that aren't even path filling. Bit of a shame, but I'd rather have a few out-there events than a lot of mundane ones.
+_________________________
+~~~~Aesthetics [56/60]~~~~~
+
+	* Visuals - Filled with a lot of incredible stuff. The Mario 3 tiles in particular are a great touch, as well as palette cycling to create wave effects in Padflower Cove or snow in Hexagon Iceland - it's all very inspired. I have to give huge props to Tame East and its long shadows cast by the sunset over mountains, what a mind-blowing effect to achieve with just vanilla assets. That said, it does cast a shadow over some of the less-ambitious areas like Windy Plateau look really boring in comparison, giant impressive arch notwithstanding.
+	* Shaping -  Great stuff here as well - every world has such a unique shape to it or has some key detail that gives it some bite. I'm very fond of Iceland's hexagonal columns, which is a very simple effect but striking all the same - especially since it's visible in a smaller view from the main overworld. The volcano in Cinnamon Islands or the distant mountains in Tame East are similarly very obvious ideas in hindsight, but really impressive to see actually put together.
+If I had any complaints, it's probably that the main map is a bit mishandled. Windy Plateau takes up so much relative space in the middle, and it crams everything else into the corners or off the map outright.
+	* Atmosphere - It's a map that feels full of worldly adventure. It can't be overstated that Tame East has some of the most incredible vibes in any submap of this whole contest, and The Ceiling is probably the best among the abstract bizarro worlds.
+	* Perspective - Goes for some ambitious landscapes and nails them here, too. The central ground archway in the center, the upside down islands in The Ceiling, partially submerged lilies in Padflower Cove, it's all greatly executed. The few gripes I have - Cloudy Corner being so low off the water, or the clouds to the north not casting a similar shadow - are very minor.
+	* Level Names - Full of a lot of the silliness. Having setups and punchlines delivered by level names is a fun touch.
+
+_________________________
+////// OVERALL: 90/100 ///////////
+
+
+
+
+====================================================================
+OWDC2023_Entry_20
+====================================================================
+
+_________________________
+~~~General Design: [38/40]~~~
+
+
+	* Functionality - ARE YOU FOR REAL
+
+Damn impressive work on making an open map within these constraints, let alone one that technically has dialogue and sort-of kind-of gameplay with a victory condition. I do wish that there were some things to find in some of the nooks and crannies since there are a lot of little dead ends, but only the very obvious spaces have anything to find.
+	* Connectivity - The map is assembled by an absolute madlad who mitigated some of the issues of having no layer 3 HUD by creating the world in such a way that it'd wrap around between the bottom and top and still make sense. This is still the bleeding edge of achievement though, and it's hard to avoid the garbage graphics that pop up when going anywhere else. It is, if nothing else, an interesting way of seeing the guts of the game operate in real time, which is a very bizarre comment to make about a Mario map's connectivity.
+	* Events - The collectable treasure hunt is a fun way of going about having events in a place where everything is otherwise accessible all at once.
+_________________________
+~~~~Aesthetics [57/60]~~~~~
+
+	* Visuals - I thought for sure this would've been a disqualification, but no - everything is vanilla on closer inspection, with assets being stretched to being basically unrecognizable. No, recognizable to an entirely different game. I respect how close to the breaking point "vanilla" is put through here.
+	* Shaping -  Being made into a completely different game is impressive, but at the end of the day it's mostly a flat area with lots of empty space. Very intricately crafted empty space, but usually with just one or two things to interact with for the submaps.  The marketplace is particularly impressive though - when there's some stuff to weave around, that's when it's at its most appealing.
+	* Atmosphere - It perfectly nails the one thing it's going for - looking like a game that’s 12 years its junior.
+	* Perspective - It's very interesting to have a map that's at this kind of scale, being so close to the ground. In spite of how flat much of the world is, there's still some interesting tricks pulled off with layer 1 priority that gives some depth to the world. I'm wondering if there weren't at least some tiles available to pull off the same trick with some of the roofs around town to give them depth as well, but maybe that wouldn't be true to old Pokemon.
+	* Level Names - Level names are dialogue, that's just brilliant.
+
+_________________________
+////// OVERALL: 95/100 ///////////
+
+Extra Notes: I hope you share the tiles used sometime, I am at a loss for some of these. I'm also pretty sure Mario was edited to give Brendan's weird hair hat, but it's probably another vanilla sprite just pasted on top like the store's inventory. Is that in the spirit of the contest? Not at all, but it's in the letter and I like the temerity.
